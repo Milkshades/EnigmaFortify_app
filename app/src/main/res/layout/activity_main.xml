@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/PrimaryColor"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/welcomeTextView2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="104dp"
+        android:fontFamily="@font/lato_regular"
+        android:gravity="center"
+        android:text="¡Le damos la bienvenida a su gestor Enigma!"
+        android:textColor="#f2f4e4"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.562"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logoImageView" />
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="174dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="18dp"
+        android:fontFamily="@font/lato_regular"
+        android:src="@drawable/logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:fontFamily="@font/fuente2"
+        android:gravity="center"
+        android:text="Enigma Fortify"
+        android:textColor="#f2f4e4"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/logoImageView" />
+
+    <Button
+        android:id="@+id/createAccountButton"
+        android:layout_width="371dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/button_border"
+        android:backgroundTint="@color/BlancoCrema"
+        android:fontFamily="@font/lato_regular"
+        android:text="CREAR UNA CUENTA"
+        android:textColor="#f2f4e4"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.533"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/welcomeTextView" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="379dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="36dp"
+        android:backgroundTint="#f2f4e4"
+        android:text="INICIAR SESIÓN"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/createAccountButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

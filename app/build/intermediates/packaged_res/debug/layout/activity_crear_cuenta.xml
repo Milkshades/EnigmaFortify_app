@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/PrimaryColor"
+    tools:context=".CrearCuenta">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="109dp"
+                android:layout_height="127dp"
+                android:layout_marginRight="0dp"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="62dp"
+                android:layout_marginRight="25dp"
+                android:fontFamily="@font/fuente2"
+                android:text="Enigma Fortify"
+                android:textColor="@color/BlancoCrema"
+                android:textSize="40sp" />
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Crear una Cuenta"
+            android:fontFamily="@font/lato_regular"
+            android:textColor="@color/BlancoCrema"
+            android:textSize="25sp"
+            android:layout_marginBottom="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="10dp">
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/icon_user" />
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:id="@+id/usuario"
+                    android:layout_height="60dp"
+                    android:backgroundTint="@color/white"
+                    android:fontFamily="@font/lato_regular"
+                    android:hint="Nombre completo"
+                    android:inputType="text"
+                    android:textColor="@color/BlancoCrema"
+                    android:textColorHint="@color/GrisOscuro" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="10dp">
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/icon_email" />
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/correo"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:backgroundTint="@color/white"
+                    android:fontFamily="@font/lato_regular"
+                    android:hint="Correo electronico"
+                    android:inputType="textEmailAddress"
+                    android:textColor="@color/BlancoCrema"
+                    android:textColorHint="@color/GrisOscuro" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="10dp">
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/icon_password2" />
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_height="wrap_content">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/contraseña"
+                    android:layout_width="match_parent"
+                    android:layout_height="49dp"
+                    android:backgroundTint="@color/white"
+                    android:fontFamily="@font/lato_regular"
+                    android:hint="Contraseña"
+                    android:inputType="textPassword"
+                    android:textColor="@color/BlancoCrema"
+                    android:textColorHint="@color/GrisOscuro" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_Registrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:backgroundTint="#f2f4e4"
+                android:text="REGISTRAR"
+                android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/registerTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="¿Ya tiene una cuenta? Inicie sesión"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:layout_marginBottom="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Al utilizar Enigma usted acepta los Términos de Uso"
+                android:textColor="@color/BlancoCrema"
+                android:textSize="16sp"
+                android:layout_marginTop="20dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="© 2024 Enigma Fortify, Inc."
+                android:textColor="@color/AzulGris"
+                android:textSize="15sp"
+                android:layout_marginTop="200dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-hdpi_icono_enigma_foreground.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-hdpi\\icono_enigma_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_ic_menu.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icon_password.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icon_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_icono_salir.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-anydpi-v26_icono_enigma_round.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-anydpi-v26\\icono_enigma_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-anydpi-v26_icono_enigma.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-anydpi-v26\\icono_enigma.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_fragment_f_salir.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\fragment_f_salir.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_icono_todas.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\icono_todas.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_icono_ajustes.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\icono_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\font_lato_regular.ttf.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\font\\lato_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icon_user.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_icono_agregar.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\icono_agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xhdpi_icono_enigma_foreground.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xhdpi\\icono_enigma_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_icono_ajustes.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\icono_ajustes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_fragment_f__ajustes.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\fragment_f__ajustes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_icon_info.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\icon_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxxhdpi_icono_enigma.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxxhdpi\\icono_enigma.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_icono_ajustes.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\icono_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxxhdpi_icono_enigma_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxxhdpi\\icono_enigma_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_editar_password.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_editar_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_icon_info.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-mdpi_icono_enigma.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-mdpi\\icono_enigma.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\font_lato_black.ttf.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\font\\lato_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icon_email.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icon_email.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_icono_salir.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_icono_salir.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xhdpi_icono_enigma_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xhdpi\\icono_enigma_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_button_border.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxhdpi_icono_enigma.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxhdpi\\icono_enigma.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_icon_info.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icon_password2.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icon_password2.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_toobar.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\toobar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icon_1.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icon_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_crear_cuenta.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_crear_cuenta.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_icono_todas.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\icono_todas.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_item_password.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\item_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_icono_todas.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\icono_todas.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxxhdpi_icono_enigma_foreground.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxxhdpi\\icono_enigma_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_main_menu.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\menu_menu_password.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\menu\\menu_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_icono_todas.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\icono_todas.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-mdpi_icono_enigma_foreground.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-mdpi\\icono_enigma_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_icono_ajustes.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\icono_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-hdpi_icono_enigma_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-hdpi\\icono_enigma_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_icono_salir.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\icono_salir.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\font_fuente.TTF.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\font\\fuente.TTF"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-mdpi_icono_enigma_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-mdpi\\icono_enigma_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_encabezado.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\encabezado.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xhdpi_icono_enigma.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xhdpi\\icono_enigma.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_icon_info.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_icono_agregar.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\icono_agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_icono_enigma_background.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\icono_enigma_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\font_fuente2.ttf.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\font\\fuente2.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-hdpi_icono_enigma.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-hdpi\\icono_enigma.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-hdpi_icono_agregar.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-hdpi\\icono_agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_icono_todas.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\icono_todas.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xhdpi_icono_salir.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xhdpi\\icono_salir.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-anydpi_icono_agregar.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-anydpi\\icono_agregar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-xxhdpi_icon_info.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-xxhdpi\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_icono_agregar.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\icono_agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\menu_menu_guardar.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\menu\\menu_guardar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_activity_agregar_password.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\activity_agregar_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxhdpi_icono_enigma_round.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxhdpi\\icono_enigma_round.webp"
+    },
+    {
+        "merged": "com.araoz.enigmafortify.app-merged_res-44:/layout_fragment_f_salir.xml.flat",
+        "source": "com.araoz.enigmafortify.app-main-46:/layout/fragment_f_salir.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\mipmap-xxhdpi_icono_enigma_foreground.webp.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\mipmap-xxhdpi\\icono_enigma_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\drawable-mdpi_icono_ajustes.png.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\drawable-mdpi\\icono_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-merged_res-44:\\layout_fragment_f__todas.xml.flat",
+        "source": "C:\\Users\\ANGEL\\.gradle\\daemon\\7.5\\com.araoz.enigmafortify.app-main-46:\\layout\\fragment_f__todas.xml"
+    }
+]

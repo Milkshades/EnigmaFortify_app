@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438964350055",
+    "project_id": "enigma-fortify-32a59",
+    "storage_bucket": "enigma-fortify-32a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438964350055:android:917dc8309ed67196d9f8c2",
+        "android_client_info": {
+          "package_name": "com.araoz.enigmafortify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0wceOBZo-5pl0XJt_ImidJOvNT90Zb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

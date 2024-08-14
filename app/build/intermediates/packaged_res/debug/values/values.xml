@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="AzulGris">#67799f</color>
+    <color name="BlancoCrema">#f2f4e5</color>
+    <color name="Gris">#4f595e</color>
+    <color name="GrisClaro">#84848b</color>
+    <color name="GrisOscuro">#444b55</color>
+    <color name="PrimaryColor">#021331</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#006db3</color>
+    <color name="colorPrimary">#021331</color>
+    <color name="colorPrimaryDark">#021331</color>
+    <color name="purple_200">#f2f4e5</color>
+    <color name="purple_500">#000000</color>
+    <color name="purple_700">#000000</color>
+    <color name="teal_200">#000000</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="EtCuenta">Cuenta</string>
+    <string name="EtNombreUsuario">Usuario</string>
+    <string name="EtNota">Nota</string>
+    <string name="EtPassword">Contraseña</string>
+    <string name="EtSitioWeb">Sitio Web</string>
+    <string name="EtTitulo">Titulo</string>
+    <string name="FAB_AgregarPassword">Agregar</string>
+    <string name="Guardar_Password">Guardar</string>
+    <string name="Opcion_Ajustes">Acerca de</string>
+    <string name="Opcion_Salir">Salir</string>
+    <string name="Opcion_Todas">Todas</string>
+    <string name="app_name">EnigmaFortify</string>
+    <string name="gcm_defaultSenderId" translatable="false">438964350055</string>
+    <string name="google_api_key" translatable="false">AIzaSyDe0wceOBZo-5pl0XJt_ImidJOvNT90Zb4</string>
+    <string name="google_app_id" translatable="false">1:438964350055:android:917dc8309ed67196d9f8c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDe0wceOBZo-5pl0XJt_ImidJOvNT90Zb4</string>
+    <string name="google_storage_bucket" translatable="false">enigma-fortify-32a59.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawe_close">Close</string>
+    <string name="navigation_drawe_open">Open</string>
+    <string name="project_id" translatable="false">enigma-fortify-32a59</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+                
+                <item name="colorPrimary">@color/colorPrimary</item>
+                <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+                <item name="colorAccent">@color/colorAccent</item>
+        </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.NoActionBar">
+                <item name="windowActionBar">false</item>
+                <item name="windowNoTitle">true</item>
+        </style>
+    <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.Light"/>
+    <style name="Theme.EnigmaFortify" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:textColorHint">@color/white</item>
+
+    </style>
+</resources>

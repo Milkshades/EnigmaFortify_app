@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EnigmaFortify</string>
+
+    <!--Drawer Menu-->
+    <string name="Opcion_Todas">Todas</string>
+    <string name="Opcion_Ajustes">Acerca de</string>
+    <string name="Opcion_Salir">Salir</string>
+
+    <!--Drawer Layout-->
+    <string name="navigation_drawe_open">Open</string>
+    <string name="navigation_drawe_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--FAB-->
+    <string name="FAB_AgregarPassword">Agregar</string>
+
+    <!--Diseño agregar password (editext)-->
+    <string name="EtTitulo">Titulo</string>
+    <string name="EtCuenta">Cuenta</string>
+    <string name="EtNombreUsuario">Usuario</string>
+    <string name="EtPassword">Contraseña</string>
+    <string name="EtSitioWeb">Sitio Web</string>
+    <string name="EtNota">Nota</string>
+
+    <!--Menu agregar password-->
+    <string name="Guardar_Password">Guardar</string>
+    
+
+</resources>
