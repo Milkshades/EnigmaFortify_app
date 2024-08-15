@@ -3,8 +3,8 @@ En este proyecto se comparte los archivos relacionados al proyecto de gestor de 
 
 # Puntos a tener en cuenta
 
-Para ejecutar exitosamente el proyecto android en su PC, se recomienda trabajar con dispositivos virtuales con API 24 Ya que versiones menores a esta presentaran complicaciones. Ejemplo:
+Para ejecutar exitosamente el proyecto android en su PC, se recomienda trabajar con dispositivos virtuales con API 24 ya que versiones menores presentaran complicaciones. Ejemplo:
 ```
-PHONE	Pixel 6 API 24	
+Pixel 6 API 24	
 ```
 
